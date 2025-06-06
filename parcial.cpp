@@ -52,10 +52,10 @@ int altura;
         cout << "Carro: " << carro << endl;;
         break;
         case 4:
-        cout << "Productos disponibles." << endl;
-        cout << "1. Paginas ($0.25)." << endl;
-        cout << "2. Caja de colores ($1.00)." << endl;
-        cout << "3. pegamento. ($0.75)" << endl;
+        cout << "Gracias por su visita." << endl;
+        break;
+        default:
+        cout << "invalid option" << endl;
         break;
     }
 
